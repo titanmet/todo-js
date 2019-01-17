@@ -3,12 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Мой список дел</title>
-<link href="css/todo.css" rel="stylesheet">
-<link href="css/jquery-ui.min.css" rel="stylesheet">
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery-ui.min.js"></script>
-<script src="todo.js"></script>
+
 </head>
 <body>
 <div class="container">
