@@ -1,5 +1,5 @@
 # Список дел  ( JQuery-UI )
-<!doctype html>
+
 <html>
 <head>
 <meta charset="UTF-8">
